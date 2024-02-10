@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ecd179;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+}
+footer {
+    background-color: #ecd179;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    padding: 1em;
+}
+
+#personal-info {
+    text-align: center;
+}
+
+#personal-info {
+text-align: center;
+}
+
+#profile-picture-container {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+}
+#profile-picture {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#personal-info p {
+    margin-bottom: 10px;
+}
+
+#skills {
+    text-align: center;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills li {
+    display: inline-block;
+    margin: 5px;
+    background-color: #eee;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+#personal-info {
+    text-align: center;
+}
+
+#profile-picture-container {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+}
+
+#profile-picture {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#personal-info p {
+    margin-bottom: 10px;
+}
+
+#personal-info i {
+    margin-right: 5px;
+}
+
+#skills {
+    text-align: center;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills li {
+    display: inline-block;
+    margin: 5px;
+    background-color: #eee;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
